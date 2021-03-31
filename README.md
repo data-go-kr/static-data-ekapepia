@@ -4,3 +4,4 @@
 언어 | 저장소
 ------------ | -------------
 python | https://github.com/data-go-kr/static-data-ekapepia-python
+nodejs | https://github.com/data-go-kr/static-data-ekapepia-nodejs
