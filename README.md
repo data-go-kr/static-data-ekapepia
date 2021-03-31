@@ -5,3 +5,4 @@
 ------------ | -------------
 python | https://github.com/data-go-kr/static-data-ekapepia-python
 nodejs | https://github.com/data-go-kr/static-data-ekapepia-nodejs
+c# | https://github.com/data-go-kr/static-data-ekapepia-csharp
