@@ -25,3 +25,17 @@ jobs:
     - name: 실행
       run: |
         python ./Source/python/main.py ${{ secrets.SERVICE_KEY }}
+        
+    - name: Commit files
+      run: |
+          git pull
+          git config --local user.email "wymoon2690@gmail.com"
+          git config --local user.name "github-actions"
+          git add .
+          git commit -m "Add changes" -a
+
+    - name: Push changes
+      uses: ad-m/github-push-action@master
+      with:
+         github_token: ${{ secrets.TOKEN_KEY }}
+         branch: ${{ github.ref }}
