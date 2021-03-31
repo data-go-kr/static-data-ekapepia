@@ -24,4 +24,4 @@ jobs:
         pip install requests
     - name: 실행
       run: |
-        python ./Source/python/main.py
+        python ./Source/python/main.py ${{ secrets.SERVICE_KEY }}
