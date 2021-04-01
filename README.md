@@ -17,7 +17,7 @@ c# | [GitHub](https://github.com/data-go-kr/static-data-ekapepia-csharp)
 ## 화면
 
 ### 리스트 화면
-![GitHub Logo](/images/capture01.png)
+![리스트 화면](/Images/capture01.png)
 
 ### XML 화면
-![GitHub Logo](/images/capture02.png)
+![XML 화면](/Images/capture02.png)
