@@ -14,3 +14,10 @@ c# | [GitHub](https://github.com/data-go-kr/static-data-ekapepia-csharp)
 
 [GitHub](https://github.com/data-go-kr/static-data-ekapepia-dashboard)
 
+## 화면
+
+### 리스트 화면
+![GitHub Logo](/images/capture01.png)
+
+### XML 화면
+![GitHub Logo](/images/capture02.png)
