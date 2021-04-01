@@ -3,6 +3,14 @@
 
 언어 | 저장소
 ------------ | -------------
-python | https://github.com/data-go-kr/static-data-ekapepia-python
-nodejs | https://github.com/data-go-kr/static-data-ekapepia-nodejs
-c# | https://github.com/data-go-kr/static-data-ekapepia-csharp
+python | [GitHub](https://github.com/data-go-kr/static-data-ekapepia-python)
+nodejs | [GitHub](https://github.com/data-go-kr/static-data-ekapepia-nodejs)
+c# | [GitHub](https://github.com/data-go-kr/static-data-ekapepia-csharp)
+
+# dashboard
+
+위 샘플을 통해서 적재된 static 파일을 이용하는 방법 샘플
+작성 언어는 aspnet core 5 로 작성 되었습니다.
+
+[GitHub](https://github.com/data-go-kr/static-data-ekapepia-dashboard)
+
