@@ -12,6 +12,7 @@ c# | [GitHub](https://github.com/data-go-kr/static-data-ekapepia-csharp)
 위 샘플을 통해서 적재된 static 파일을 이용하는 방법 샘플
 작성 언어는 aspnet core 5 로 작성 되었습니다.
 
+[데모](https://static-data-ekapepia-dashboard.hh.gl)
 [GitHub](https://github.com/data-go-kr/static-data-ekapepia-dashboard)
 
 ## 화면
